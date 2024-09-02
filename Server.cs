@@ -4,7 +4,7 @@ using System.Text;
 
 namespace NP_HW_23_08
 {
-    internal class Program
+    internal class Server
     {
         static void Main(string[] args)
         {
